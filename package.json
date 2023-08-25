@@ -2,7 +2,7 @@
 	"name": "navbar-dropdown-v1",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://afrehdixon.github.io",
+	"homepage": "https://afrehdixon.github.io/",
 	"type": "module",
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
