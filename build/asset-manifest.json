@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Legal_connect/static/css/main.1c5b8f9d.chunk.css",
+    "main.js": "/Legal_connect/static/js/main.cfec43a6.chunk.js",
+    "main.js.map": "/Legal_connect/static/js/main.cfec43a6.chunk.js.map",
+    "runtime-main.js": "/Legal_connect/static/js/runtime-main.4e34a662.js",
+    "runtime-main.js.map": "/Legal_connect/static/js/runtime-main.4e34a662.js.map",
+    "static/css/2.99b84671.chunk.css": "/Legal_connect/static/css/2.99b84671.chunk.css",
+    "static/js/2.74d5d1a2.chunk.js": "/Legal_connect/static/js/2.74d5d1a2.chunk.js",
+    "static/js/2.74d5d1a2.chunk.js.map": "/Legal_connect/static/js/2.74d5d1a2.chunk.js.map",
+    "index.html": "/Legal_connect/index.html",
+    "precache-manifest.420a59b23854b2fa571ac89e06b1edcc.js": "/Legal_connect/precache-manifest.420a59b23854b2fa571ac89e06b1edcc.js",
+    "service-worker.js": "/Legal_connect/service-worker.js",
+    "static/css/2.99b84671.chunk.css.map": "/Legal_connect/static/css/2.99b84671.chunk.css.map",
+    "static/css/main.1c5b8f9d.chunk.css.map": "/Legal_connect/static/css/main.1c5b8f9d.chunk.css.map",
+    "static/js/2.74d5d1a2.chunk.js.LICENSE.txt": "/Legal_connect/static/js/2.74d5d1a2.chunk.js.LICENSE.txt",
+    "static/js/main.cfec43a6.chunk.js.LICENSE.txt": "/Legal_connect/static/js/main.cfec43a6.chunk.js.LICENSE.txt",
+    "static/media/ab2.jpeg": "/Legal_connect/static/media/ab2.e222c5e1.jpeg",
+    "static/media/HeroSection.css": "/Legal_connect/static/media/carousel-2.78e2a09a.jpg",
+    "static/media/lawyer1.jpg": "/Legal_connect/static/media/lawyer1.ac0b79da.jpg",
+    "static/media/lawyer2.jpg": "/Legal_connect/static/media/lawyer2.781763e7.jpg",
+    "static/media/lawyer3.jpg": "/Legal_connect/static/media/lawyer3.c67914c5.jpg",
+    "static/media/lawyer6.jpg": "/Legal_connect/static/media/lawyer6.841ed24b.jpg",
+    "static/media/portfolio1.jpg": "/Legal_connect/static/media/portfolio1.c4985cd0.jpg",
+    "static/media/portfolio2.jpg": "/Legal_connect/static/media/portfolio2.627da34e.jpg",
+    "static/media/portfolio3.jpg": "/Legal_connect/static/media/portfolio3.ab93857f.jpg",
+    "static/media/portfolio4.jpg": "/Legal_connect/static/media/portfolio4.6b342371.jpg",
+    "static/media/portfolio5.jpg": "/Legal_connect/static/media/portfolio5.455aed98.jpg",
+    "static/media/portfolio6.jpg": "/Legal_connect/static/media/portfolio6.ed83e8b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e34a662.js",
+    "static/css/2.99b84671.chunk.css",
+    "static/js/2.74d5d1a2.chunk.js",
+    "static/css/main.1c5b8f9d.chunk.css",
+    "static/js/main.cfec43a6.chunk.js"
+  ]
+}
